@@ -1,0 +1,38 @@
+body {
+  font-family: Helvitica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+}
+/*header*/
+header {
+  justify-content: space-between;
+  display: flex;
+  position: fixed;
+  border-bottom: 1px solid seashell;
+  width: 100%;
+  height: 69px;
+}
+header nav {
+  padding-right: 30px;
+}
+.logo {
+align-items: center;
+    padding: 10px;
+    height: 50px;
+}
+.fit {
+  max-height: 100%;
+  max-width: 100%;
+}
+nav span {
+  display: inline-block;
+  padding: 20px 10px;
+}
+.navigation a {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  opacity: 0.9;
+}
